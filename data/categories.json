@@ -78,5 +78,29 @@
     "slug": "contact-grills",
     "count": 10,
     "published": true
+  },
+  {
+    "id": 11,
+    "image": "https://media.istockphoto.com/photos/asian-chinese-couple-preparing-ingredients-cooking-meals-for-family-picture-id1297134165?k=20&m=1297134165&s=612x612&w=0&h=xM4EDF-2e15iv-3bjLOt4rd4hOjzwYnZt9QV2EaOWYk=",
+    "name": "Refrigeration",
+    "slug": "refrigeration",
+    "count": 11,
+    "published": true
+  },
+  {
+    "id": 12,
+    "image": "https://media.istockphoto.com/photos/females-from-a-multigeneration-asian-family-in-a-kitchen-during-the-picture-id1288744224?k=20&m=1288744224&s=612x612&w=0&h=QWUGbBn88u-Yo4lY8K8FKsOEzPgXo-BAuq6yPbj3GyQ=",
+    "name": "Refrigerated substructures",
+    "slug": "refrigerated-substructures",
+    "count": 12,
+    "published": true
+  },
+  {
+    "id": 13,
+    "image": "https://media.istockphoto.com/photos/asian-chinese-beautiful-woman-and-her-mother-getting-ready-cooking-picture-id1297134138?k=20&m=1297134138&s=612x612&w=0&h=gdxIDug7ql3x_zoyAauaUFSo1Ndz5yLIgpK2SXpbGCQ=",
+    "name": "Cooling tables",
+    "slug": "cooling-tables",
+    "count": 13,
+    "published": true
   }
 ]
