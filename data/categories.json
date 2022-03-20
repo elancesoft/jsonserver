@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "category-1.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/aolu4dryjfofkmvxhtac.png",
     "name": "Cooking equipment",
     "slug": "cooking-equipment",
     "count": 10,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "image": "category-2.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/fbbtcof0be7eygids9z5.png",
     "name": "Cooking appliances made to measure",
     "slug": "cooking-appliances-made-to-measure",
     "count": 3,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "image": "category-3.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/fq1hjkheem3e0xrgpwjs.png",
     "name": "Cooking Series Mario",
     "slug": "cooking-series-mario",
     "count": 4,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "image": "category-4.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/g0x2cwcmy5oyda4snlcd.png",
     "name": "Paolo cooking series",
     "slug": "paolo-cooking-series",
     "count": 5,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "image": "category-5.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/hitatjdxe3ldcfhcxpdg.png",
     "name": "Electric Bain maries",
     "slug": "electric-bain-maries",
     "count": 3,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "image": "category-6.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/hzq6zcatoouos47tm2ej.png",
     "name": "Electric Chip warmer",
     "slug": "electric-chip-warmer",
     "count": 10,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "image": "category-7.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/rdehnuh4ormxuclahm7k.png",
     "name": "Electric & Gas deep fryers",
     "slug": "electric-und-gas-deep-fryers",
     "count": 10,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "image": "category-8.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/sctbjvub5tunzmo64j9l.png",
     "name": "Pizzeria & Grill",
     "slug": "pizzeria-und-grill",
     "count": 10,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "image": "category-9.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/xe2za8mpmtgisb1lbdhq.png",
     "name": "Pizza ovens",
     "slug": "pizza-ovens",
     "count": 10,
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "image": "category-10.png",
+    "image": "https://jsonserver-elancesoft.herokuapp.com/assets/images/z7jq5afzk5jivyy9ejx2.png",
     "name": "Contact grills",
     "slug": "contact-grills",
     "count": 10,
