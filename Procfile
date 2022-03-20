@@ -1,1 +1,1 @@
-Web: json-server --watch db.json
+Web: node server.js
