@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Spring 2021",
     "desc": "Summer brights mixed with sexy muted colors",
+    "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.",
     "link": "123123",
     "image": "lookbook-1.png"
   },
@@ -10,6 +11,7 @@
     "id": 2,
     "title": "Summer 2021",
     "desc": "Introducing our new ribbed collection along with four new bold colors",
+    "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.",
     "link": "123123",
     "image": "lookbook-2.png"
   },
@@ -17,6 +19,7 @@
     "id": 3,
     "title": "Menwear 2020",
     "desc": "Summer brights mixed with sexy muted colors",
+    "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.",
     "link": "123123",
     "image": "lookbook-3.png"
   },
@@ -24,6 +27,7 @@
     "id": 4,
     "title": "Winter 2019",
     "desc": "Introducing our new ribbed collection along with four new bold colors",
+    "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.",
     "link": "123123",
     "image": "lookbook-4.png"
   }
