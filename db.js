@@ -3,6 +3,7 @@ const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const categories = require("./data/categories");
+const lookbooks = require("./data/lookbooks");
 
 module.exports = {
   items,
@@ -10,6 +11,7 @@ module.exports = {
   brands,
   itemTypes,
   categories,
+  lookbooks
 }
 
 

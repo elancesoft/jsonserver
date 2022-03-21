@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Spring 2021",
+    "desc": "Summer brights mixed with sexy muted colors",
+    "link": "123123",
+    "image": "lookbook-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Summer 2021",
+    "desc": "Introducing our new ribbed collection along with four new bold colors",
+    "link": "123123",
+    "image": "lookbook-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Menwear 2020",
+    "desc": "Summer brights mixed with sexy muted colors",
+    "link": "123123",
+    "image": "lookbook-3.png"
+  },
+  {
+    "id": 4,
+    "title": "Winter 2019",
+    "desc": "Introducing our new ribbed collection along with four new bold colors",
+    "link": "123123",
+    "image": "lookbook-4.png"
+  }
+]
